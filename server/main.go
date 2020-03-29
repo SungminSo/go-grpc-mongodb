@@ -8,7 +8,7 @@ import (
 	"os"
 	"os/signal"
 
-	blogpb "../proto"
+	blogpb "github.com/SungminSo/go-grpc-mongodb/proto"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

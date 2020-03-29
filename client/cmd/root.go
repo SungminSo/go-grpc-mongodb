@@ -21,7 +21,7 @@ import (
 	"os"
 	"time"
 
-	blogpb "../../proto"
+	blogpb "github.com/SungminSo/go-grpc-mongodb/proto"
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

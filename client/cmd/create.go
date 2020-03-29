@@ -18,7 +18,7 @@ import (
 	"context"
 	"fmt"
 
-	blogpb "../../proto"
+	blogpb "github.com/SungminSo/go-grpc-mongodb/proto"
 	"github.com/spf13/cobra"
 )
 

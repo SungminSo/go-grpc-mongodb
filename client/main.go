@@ -14,7 +14,7 @@
 
 package main
 
-import cmd "./cmd"
+import cmd "github.com/SungminSo/go-grpc-mongodb/client/cmd"
 
 func main() {
 	cmd.Execute()
